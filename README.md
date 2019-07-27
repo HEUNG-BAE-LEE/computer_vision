@@ -7,22 +7,22 @@ computer vision과 관련된 자료들을 보며 공부한 후 정리해 놓기 
 dl_cv_tensorflow_10weeks
 https://github.com/solaris33/deep-learning-tensorflow-book-code
 
-강의를 위한 Slack 채널
-fc-dvr-8th.slack.com
+- Week 1
+  - [Lecture Slide 1 pdf](https://drive.google.com/file/d/1es2hDW2n4IkPCntW05IGXv9KN3OqAngr/view)
+  - Week1 과제데이터 iris_training.csv iris_test.csv
 
-Week 1
-Lecture Slide 1 pdf
-Week1 과제데이터 iris_training.csv iris_test.csv
-Week 2
-Lecture Slide 2 pdf
-cat_photos 데이터셋(샤트룩스(chartreux), 페르시안(persian), 래그돌(ragdoll) 세가지 label) Download
-test_chartreux.jpg Download
-Week1 과제 Solution 링크
-Week 3
-Lecture Slide 3 pdf
-Week3 과제 예제데이터(<고도를 기다리며> txt) 링크
-Week2 과제 Solution 링크
-Week 4
+- Week 2
+  - Lecture Slide 2 pdf
+  - cat_photos 데이터셋(샤트룩스(chartreux), 페르시안(persian), 래그돌(ragdoll) 세가지 label) Download
+  - test_chartreux.jpg Download
+  - Week1 과제 Solution 링크
+
+- Week 3
+  - Lecture Slide 3 pdf
+  - Week3 과제 예제데이터(<고도를 기다리며> txt) 링크
+  - Week2 과제 Solution 링크
+
+- Week 4
 Lecture Slide 4 pdf
 Week4 과제 데이터 링크
 Week 5
