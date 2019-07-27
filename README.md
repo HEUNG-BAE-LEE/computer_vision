@@ -1,21 +1,22 @@
 # computer_vision
 computer vision과 관련된 자료들을 보며 공부한 후 정리해 놓기 위한 repo
 
+
 ## 딥러닝-영상인식 CAMP 8기 Lecture Slides 및 강의자료들
 
 강의에 사용되는 코드 및 논문을 모아놓은 Github Respositroy
-dl_cv_tensorflow_10weeks
-https://github.com/solaris33/deep-learning-tensorflow-book-code
+[dl_cv_tensorflow_10weeks](https://github.com/solaris33/dl_cv_tensorflow_10weeks)
+[https://github.com/solaris33/deep-learning-tensorflow-book-code](https://github.com/solaris33/deep-learning-tensorflow-book-code)
 
 - Week 1
   - [Lecture Slide 1 pdf](https://drive.google.com/file/d/1es2hDW2n4IkPCntW05IGXv9KN3OqAngr/view)
-  - Week1 과제데이터 iris_training.csv iris_test.csv
+  - Week1 과제데이터 [iris_training.csv](https://drive.google.com/file/d/1KTNcuMqKIugx7tOCXu6spTOmzyLhgijw/view) [iris_test.csv](https://drive.google.com/file/d/1awngV_gjPVH7FLGf5OzqUFEmwQcks2JQ/view)
 
 - Week 2
-  - Lecture Slide 2 pdf
-  - cat_photos 데이터셋(샤트룩스(chartreux), 페르시안(persian), 래그돌(ragdoll) 세가지 label) Download
-  - test_chartreux.jpg Download
-  - Week1 과제 Solution 링크
+  - [Lecture Slide 2 pdf](https://drive.google.com/file/d/1awngV_gjPVH7FLGf5OzqUFEmwQcks2JQ/view)
+  - [cat_photos 데이터셋(샤트룩스(chartreux), 페르시안(persian), 래그돌(ragdoll) 세가지 label) Download](https://drive.google.com/file/d/1hEex05JauSpZUqVmhgIW2hZiwbxQQ1-z/view)
+  - [test_chartreux.jpg Download](https://drive.google.com/file/d/1j_2piQRqSSxF4VO0XnbByMI_j70vV4gO/view)
+  - [Week1 과제 Solution 링크](https://gist.github.com/solaris33/ab45e0f162ba482c000ea19606ff803c)
 
 - Week 3
   - Lecture Slide 3 pdf
